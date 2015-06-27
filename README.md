@@ -1,6 +1,6 @@
 nokogir-2.2.2-win64-mingw-gem 
  
-cross-compiled gems using rake-compile, rake-compile-dock (thanks luis-lavena!) on linux-vm/win8.1 for nokogiri (thanks nokogiri team!)
+cross-compiled gems using rake-compile, rake-compile-dock (thanks @luislavena!) on linux-vm/win8.1 for nokogiri (thanks nokogiri team!)
 
 released as a courtesy in case it helps.  just install it as a local gem in system, should work.  YMMV.
 
